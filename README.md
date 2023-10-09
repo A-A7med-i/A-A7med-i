@@ -23,7 +23,6 @@
 <h3 align="left">You can reach me at :alien:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedna00647235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedna00647235" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed nabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed nabil" height="30" width="40" /></a>
 <a href="https://fb.com/ahmed.salm.167189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.salm.167189" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/a_ahmed_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="a_ahmed_i" height="30" width="40" /></a>
 </p>
