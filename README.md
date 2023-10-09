@@ -24,4 +24,4 @@
 <p align="left">
 <a href="https://twitter.com/ahmedna00647235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedna00647235" height="30" width="40" /></a>
 <a href="https://fb.com/ahmed.salm.167189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.salm.167189" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed na" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-nabil-4b0180263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed nabil" height="30" width="40" /></a>
