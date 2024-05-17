@@ -2,9 +2,10 @@
 
 # Hello, I'm Ahmed! 👋
 
-- Undergraduate Electronics and Communications Engineer at Mansoura University
-- Currently, I am focused on ML
-- Kaggle: [Ahmed nabil](https://www.kaggle.com/ahmedsale)
+- 🎓 Undergraduate Electronics and Communications Engineer at Mansoura University
+- 🧠 Currently, I am focused on ML
+- ⚙️ Data is the raw material from which AI is built
+- 📊 Kaggle: [Ahmed nabil](https://www.kaggle.com/ahmedsale)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-A7med-i&layout=compact)
 
