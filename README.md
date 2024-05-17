@@ -2,10 +2,9 @@
 
 # Hello, I'm Ahmed! 👋
 
-- 🎓 Undergraduate Electronics and Communications Engineer at Mansoura University
-- 🧠 Currently learning AI [ML, DL]
-- 🏆 Codeforces: [A_ahmed_I](https://codeforces.com/profile/A_ahmed_I)
-- 📊 Kaggle: [Ahmed nabil](https://www.kaggle.com/ahmedsale)
+- Undergraduate Electronics and Communications Engineer at Mansoura University
+- Currently, I am focused on ML
+- Kaggle: [Ahmed nabil](https://www.kaggle.com/ahmedsale)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-A7med-i&layout=compact)
 
