@@ -1,15 +1,17 @@
 <img align='right' src="https://th.bing.com/th/id/R.875754ae38641f3314e3a8d6d5c42302?rik=xZPw3ID51YNJ2w&pid=ImgRaw&r=0" width="250">
 
 # Hello, I'm Ahmed! 👋
-
+          
 - 🎓 Undergraduate Electronics and Communications Engineer at Mansoura University
 - 🧠 Currently, I am focused on ML
 - ⚙️ Data is the raw material from which AI is built
 - 📊 Kaggle: [Ahmed nabil](https://www.kaggle.com/ahmedsale)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-A7med-i&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=A-A7med-i&show_icons=true&theme=dark&layout=compact)
 
-![Github](https://github-readme-stats.vercel.app/api?username=A-A7med-i&show_icons=true&locale=en)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-A7med-i&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-A7med-i&theme=dark)
 
 ## Connect with me 🌐
 <p align="left">
