@@ -1,5 +1,3 @@
-<img align='right' src="https://th.bing.com/th/id/R.875754ae38641f3314e3a8d6d5c42302?rik=xZPw3ID51YNJ2w&pid=ImgRaw&r=0" width="250">
-
 # Hello, I'm Ahmed! 👋
           
 - 🎓 Undergraduate Electronics and Communications Engineer at Mansoura University
@@ -7,11 +5,24 @@
 - ⚙️ Data is the raw material from which AI is built
 - 📊 Kaggle: [Ahmed nabil](https://www.kaggle.com/ahmedsale)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=A-A7med-i&show_icons=true&theme=dark&layout=compact)
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=A-A7med-i&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-A7med-i&show_icons=true&theme=dark)
+## Activity On GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-A7med-i&theme=dark)
+<p align="center">
+  <a href="https://github.com/A-A7med-i/A-A7med-i">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=A-A7med-i&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
+## Top Respositorys
+  <p align="left">
+     <a href="https://github.com/A-A7med-i/ML-Math"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=A-A7med-i&repo=ML-Math&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+          <a href="https://github.com/A-A7med-i/Scraping"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=A-A7med-i&repo=Scraping&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
 
 ## Connect with me 🌐
 <p align="left">
