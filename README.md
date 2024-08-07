@@ -17,18 +17,19 @@
  </div>
 
  <div align="center"> 
+<a href="mailto:ahmednabilsalme8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-blank?style=for-the-badge&logo=Gmail&logoColor=%23003f5c&labelColor=white&color=%23476f95"/>
+  </a>
   <a href="https://twitter.com/ahmedna00647235" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=Twitter&logoColor=red&color=red"/>
+    <img src="https://img.shields.io/badge/Twitter-blank?style=for-the-badge&logo=X&logoColor=red&labelColor=%232a2a2e&color=red"/>
   </a>
   <a href="https://www.linkedin.com/in/ahmed-nabil-4b0180263" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.facebook.com/ahmed.salm.167189" target="_blank">
-     <img src="https://img.shields.io/badge/Facebook-blank?style=for-the-badge&logo=Facebook&logoSize=white&color=white"
- /> 
+     <img src="https://img.shields.io/badge/Facebook-blank?style=for-the-badge&logo=facebook&logoColor=white&labelColor=%232a2a2e&color=white"/> 
   </a>
 </div>
-
     
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
