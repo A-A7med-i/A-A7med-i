@@ -12,7 +12,7 @@
 
  💬 Data **is the raw material from which AI is built**
  
- 🧠 Currently, I am focused on **ML**
+ 🧠 Currently, I am focused on **DL**
 
  </div>
 
