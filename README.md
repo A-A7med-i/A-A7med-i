@@ -34,7 +34,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img height=300 width=500 align="left" src="https://github-readme-stats-salesp07.vercel.app/api?username=A-A7med-i&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img height=300 width=400 align="left" src="https://github-readme-stats-salesp07.vercel.app/api?username=A-A7med-i&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=400 height=250 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=A-A7med-i&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=350 height=250 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=A-A7med-i&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
