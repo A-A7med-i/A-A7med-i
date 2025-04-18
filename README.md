@@ -7,9 +7,9 @@
 <h3 align="center"></h3>
 
 <div align="center">  
-  <img width="500" height="500" src="https://github-readme-stats.vercel.app/api?username=A-A7med-i&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="400" height="500" src="https://github-readme-stats.vercel.app/api?username=A-A7med-i&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
 
-<img width=500 height=400 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=A-A7med-i&show_icons=true&langs_count=20&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&size_weight=0.5&count_weight=0.5"/>
+<img width=400 height=400 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=A-A7med-i&show_icons=true&langs_count=20&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&size_weight=0.5&count_weight=0.5"/>
 
 </div>
 
