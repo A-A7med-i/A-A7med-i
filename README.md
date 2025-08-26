@@ -8,14 +8,12 @@
 
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=A-A7med-i&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ahmed Nabil github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-A7med-i&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&langs_count=10&include_all_commits=true&count_weight=0.7&size_weight=0.3" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=A-A7med-i&show_icons=true&count_private=true&hide_border=true&title_color=00ffe0&icon_color=00ffe0&text_color=c9d1d9&bg_color=0d1117" alt="Ahmed Nabil github stats" /> 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-A7med-i&layout=compact&hide_border=true&title_color=00ffe0&text_color=c9d1d9&bg_color=0d1117&langs_count=10&include_all_commits=true&count_weight=0.7&size_weight=0.3" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=A-A7med-i&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Ahmed Nabil github streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=A-A7med-i&theme=dark&hide_border=true&stroke=00ffe0&background=0d1117&ring=00ffe0&fire=ff6ec7&currStreakLabel=00ffe0" alt="Ahmed Nabil github streak" />
 </div>
 
-
-
-[![Ahmed nabil github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-A7med-i&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ahmed Nabil GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-A7med-i&bg_color=0d1117&color=c9d1d9&line=00bfbf&point=00ffcc&area_color=005f5f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
