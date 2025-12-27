@@ -1,6 +1,6 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:3b82f6,100:8b5cf6&section=header&reversal=true&textBg=false"/> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!;I'm+Ahmed+Nabil;&color=60a5fa" />
