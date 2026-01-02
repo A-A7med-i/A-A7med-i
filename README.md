@@ -12,8 +12,8 @@
 <div align="center">
 
 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-A7med-i&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-A7med-i&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-Ahmed-I&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-Ahmed-I&theme=tokyonight" />
 
   
 </div>
@@ -23,11 +23,11 @@
 <div align="center">
 </div>
 <div align="center"> 
-   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-A7med-i&theme=tokyonight" />
+   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Ahmed-I&theme=tokyonight" />
 </div>
 
 <br/><br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-A7med-i&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3b82f6&line=8b5cf6&point=f472b6" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-Ahmed-I&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3b82f6&line=8b5cf6&point=f472b6" />
 </div>
