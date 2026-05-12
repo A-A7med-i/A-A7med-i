@@ -28,6 +28,16 @@
 
 <br/><br/>
 
+<!-- Activity Graph -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-Ahmed-I&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3b82f6&line=8b5cf6&point=f472b6" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-Ahmed-I&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7F77DD&line=1D9E75&point=D85A30&area=true&area_color=7F77DD" />
 </div>
+
+<br/>
+
+<!-- GitHub Streak -->
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=A-Ahmed-I&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=1D9E75&fire=D85A30&currStreakLabel=7F77DD" />
+</div>
+
+<br/>
