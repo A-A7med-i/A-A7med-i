@@ -21,10 +21,3 @@
   <img width="100%" src="https://raw.githubusercontent.com/A-Ahmed-I/A-Ahmed-I/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <br/>
-
-
-<!-- 3D Contribution Calendar -->
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/A-Ahmed-I/A-Ahmed-I/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
-<br/>
