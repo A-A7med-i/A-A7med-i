@@ -12,13 +12,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: A-Ahmed-I
-
+          SETTING_JSON: |
+            {
+              "githubUserName": "A-Ahmed-I",
+              "type": "SouthEast",
+              "animator": "Bounce",
+              "outputBranchName": "main",
+              "outputDir": "profile-3d-contrib"
+            }
+                - name: Commit & Push
       - name: Commit & Push
         run: |
           git config user.email "action@github.com"
